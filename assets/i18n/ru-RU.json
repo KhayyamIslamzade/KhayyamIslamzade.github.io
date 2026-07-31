@@ -10,8 +10,8 @@
   "app": {
     "welcomeEyebrow": "Привет, я Хайям",
     "welcomeTitle": "Инженер-программист",
-    "poweredBy": "Создано",
-    "brand": "Khayyam Islamzade"
+    "poweredBy": "При создании сайта ни один баг не пострадал —",
+    "brand": "Khayyam Islamzade 🤖"
   },
   "common": {
     "back": "Назад",

@@ -10,8 +10,8 @@
   "app": {
     "welcomeEyebrow": "Salam, mən Xəyyam",
     "welcomeTitle": "Proqram Muhəndisi",
-    "poweredBy": "Müəllif:",
-    "brand": "Khayyam Islamzade"
+    "poweredBy": "Bu sayt yaradılarkən heç bir bug-a xətər yetirilməyib —",
+    "brand": "Khayyam Islamzade 🤖"
   },
   "common": {
     "back": "Geri",
