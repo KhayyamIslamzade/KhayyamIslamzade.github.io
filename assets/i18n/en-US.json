@@ -10,8 +10,8 @@
   "app": {
     "welcomeEyebrow": "Hey, I'm Khayyam",
     "welcomeTitle": "Software Engineer",
-    "poweredBy": "Powered by",
-    "brand": "Generative Portfolio AI"
+    "poweredBy": "Created by",
+    "brand": "Khayyam Islamzade"
   },
   "common": {
     "back": "Back",
