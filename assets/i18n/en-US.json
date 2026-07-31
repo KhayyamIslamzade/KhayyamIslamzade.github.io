@@ -1,0 +1,152 @@
+{
+  "language": {
+    "selectorLabel": "Language",
+    "options": {
+      "en-US": "English",
+      "az-AZ": "Azerbaijani",
+      "ru-RU": "Russian"
+    }
+  },
+  "app": {
+    "welcomeEyebrow": "Hey, I'm Khayyam",
+    "welcomeTitle": "Software Engineer",
+    "poweredBy": "Powered by",
+    "brand": "Generative Portfolio AI"
+  },
+  "common": {
+    "back": "Back",
+    "ai": "AI",
+    "aiIsWriting": "AI is writing",
+    "present": "Present",
+    "years": "years",
+    "validation": "Validation",
+    "invalidInput": "Invalid input",
+    "error": "Error",
+    "success": "Success",
+    "info": "Info",
+    "anErrorOccurred": "An error occurred",
+    "duration": {
+      "short": {
+        "hours": "h",
+        "minutes": "m",
+        "seconds": "s"
+      }
+    }
+  },
+  "chat": {
+    "placeholder": "Ask me anything...",
+    "sendMessage": "Send message",
+    "backToIntro": "Back to intro",
+    "quickActionsLabel": "Quick portfolio prompts",
+    "welcome": {
+      "initialPrompt": "Hello",
+      "staticMessage": "Hello! You can ask me anything about my experience, projects, or technical skills.",
+      "fallback": "Hello! You can ask me anything about my experience, projects, or technical skills."
+    },
+    "quickActions": {
+      "profile": "Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "contact": "Contact",
+      "downloadCv": "Download CV",
+      "certificates": "Certificates",
+      "education": "Education"
+    },
+    "quickPrompts": {
+      "profile": "Can you tell me about Khayyam?",
+      "projects": "Can you list the projects you developed?",
+      "skills": "What technical skills and abilities do you have?",
+      "experience": "Can you describe your work and career experience?",
+      "contact": "How can I contact you?",
+      "downloadCv": "Can I download your CV?",
+      "certificates": "Can you list your certificates?",
+      "education": "Can you show your education background?"
+    },
+    "errors": {
+      "requestFailed": "Sorry, a connection error occurred while getting a response. Please try again.",
+      "cardDataFailed": "Card data could not be loaded. Please try again."
+    },
+    "rateLimit": {
+      "title": "Tiny cooldown break",
+      "message": "AI is sipping some electrons. Try again when the timer hits zero.",
+      "remainingLabel": "Cooldown remaining",
+      "inputNote": "Direct messages are cooling down, but the quick portfolio buttons still work."
+    },
+    "intentResponses": {
+      "showSkills": "You can see my technical skills grouped by category in the card below.",
+      "showProjects": "I listed the projects I developed in the cards below.",
+      "showProfile": "You can see my brief profile information in the card below.",
+      "showExperience": "I summarized my work and career experience in the card below.",
+      "showContact": "I shared my contact information in the card below.",
+      "downloadCv": "You can access the CV file from the card below.",
+      "showEducation": "You can see my education information in the card below.",
+      "showCertificates": "I listed my certificates in the card below.",
+      "default": "No response was received."
+    }
+  },
+  "intentCard": {
+    "profile": "Profile",
+    "skillsTitle": "Skills & Expertise",
+    "skillsDescription": "Grouped by technical area.",
+    "projectsTitle": "Projects",
+    "projectsDescription": "Selected work and product examples.",
+    "portfolioProject": "Portfolio project",
+    "experienceTitle": "Experience",
+    "experienceDescription": "Career timeline and recent roles.",
+    "contactTitle": "Contact",
+    "contactDescription": "Best channels for professional conversations.",
+    "cvDownloadTitle": "CV Download",
+    "developerProfile": "Developer profile",
+    "openCvPdf": "Open CV PDF",
+    "cvNotConfigured": "CV link is not configured yet.",
+    "educationTitle": "Education",
+    "educationDescription": "Academic background.",
+    "certificatesTitle": "Certificates",
+    "certificatesDescription": "Professional certificates and credentials.",
+    "cardUnavailable": "Card data is not available for this response.",
+    "other": "Other",
+    "openCredential": "Open credential",
+    "coreFocus": "Core focus",
+    "remoteReady": "Remote ready",
+    "meFocusBackend": "Backend systems",
+    "meFocusFrontend": "Frontend delivery",
+    "meFocusCloud": "Cloud and DevOps",
+    "meFocusAi": "AI-oriented products",
+    "openProject": "Open project",
+    "openSource": "Open source"
+  },
+  "employment": {
+    "fullTime": "Full-time",
+    "partTime": "Part-time",
+    "contract": "Contract",
+    "freelance": "Freelance",
+    "internship": "Internship"
+  },
+  "contactForm": {
+    "title": "Send Me a Message",
+    "subjectLabel": "Subject",
+    "emailLabel": "Email",
+    "emailPlaceholder": "example@domain.com",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Brief summary of your inquiry...",
+    "sendButton": "Send Message",
+    "submittingButton": "Sending...",
+    "successMessage": "Your inquiry has been sent successfully! We will get in touch soon.",
+    "pendingErrorMessage": "You already have a pending inquiry. We will contact you shortly.",
+    "genericErrorMessage": "An error occurred while sending your message. Please try again.",
+    "subjects": {
+      "jobOpportunity": "Job Opportunity",
+      "freelanceProject": "Freelance Project",
+      "technicalConsulting": "Technical Consulting",
+      "generalInquiry": "General Inquiry",
+      "other": "Other"
+    },
+    "validation": {
+      "emailRequired": "Email address is required.",
+      "emailInvalid": "Please enter a valid email address (e.g. name@domain.com).",
+      "messageRequired": "Message content cannot be empty.",
+      "messageMinLength": "Message must be at least 5 characters long."
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "language": {
+    "selectorLabel": "Dil",
+    "options": {
+      "en-US": "Ingiliscə",
+      "az-AZ": "Azərbaycanca",
+      "ru-RU": "Rusca"
+    }
+  },
+  "app": {
+    "welcomeEyebrow": "Salam, mən Xəyyam",
+    "welcomeTitle": "Proqram Muhəndisi",
+    "poweredBy": "Destəkləyir",
+    "brand": "Generative Portfolio AI"
+  },
+  "common": {
+    "back": "Geri",
+    "ai": "AI",
+    "aiIsWriting": "AI yazır",
+    "present": "Indi",
+    "years": "il",
+    "validation": "Validasiya",
+    "invalidInput": "Yanlış məlumat",
+    "error": "Xəta",
+    "success": "Uğurlu",
+    "info": "Məlumat",
+    "anErrorOccurred": "Xəta baş verdi",
+    "duration": {
+      "short": {
+        "hours": "s",
+        "minutes": "d",
+        "seconds": "san"
+      }
+    }
+  },
+  "chat": {
+    "placeholder": "Məndən istədiyini soruş...",
+    "sendMessage": "Mesaj göndər",
+    "backToIntro": "Giriş ekranına qayıt",
+    "quickActionsLabel": "Sürətli portfolio sorğuları",
+    "welcome": {
+      "initialPrompt": "Salam",
+      "staticMessage": "Salam! Təcrübəm, layihələrim və ya texniki bacarıqlarım haqqında hər şeyi soruşa bilərsən.",
+      "fallback": "Salam! Təcrübəm, layihələrim və ya texniki bacarıqlarım haqqında hər şeyi soruşa bilərsən."
+    },
+    "quickActions": {
+      "profile": "Mən",
+      "projects": "Layihələr",
+      "skills": "Bacarıqlar",
+      "experience": "Təcrübə",
+      "contact": "Əlaqə",
+      "downloadCv": "CV-ni yüklə",
+      "certificates": "Sertifikatlar",
+      "education": "Təhsil"
+    },
+    "quickPrompts": {
+      "profile": "Xəyyam haqqında məlumat verə bilərsən?",
+      "projects": "Hazırladığın layihələri sadalaya bilərsən?",
+      "skills": "Hansı texniki bacarıqlara və qabiliyyətlərə sahibsən?",
+      "experience": "İş və karyera təcrübəni izah edə bilərsən?",
+      "contact": "Səninlə necə əlaqə saxlaya bilərəm?",
+      "downloadCv": "CV faylını yükləyə bilərəm?",
+      "certificates": "Sertifikatlarını sadalaya bilərsən?",
+      "education": "Təhsil məlumatlarını göstərə bilərsən?"
+    },
+    "errors": {
+      "requestFailed": "Bağışla, cavab alınarkən bağlantı xətası baş verdi. Zəhmət olmasa yenidən cəhd et.",
+      "cardDataFailed": "Kart məlumatı yüklənmədi. Zəhmət olmasa yenidən cəhd et."
+    },
+    "rateLimit": {
+      "title": "Kiçik cooldown fasiləsi",
+      "message": "AI elektron kofesini içir. Taymer sıfırlananda yenidən yoxla.",
+      "remainingLabel": "Qalan cooldown",
+      "inputNote": "Birbaşa mesajlar cooldown-dadır, amma sürətli portfolio düymələri hələ də işləyir."
+    },
+    "intentResponses": {
+      "showSkills": "Texniki bacarıqlarımı aşağıdakı kartda kateqoriyalar üzrə görə bilərsən.",
+      "showProjects": "Hazırladığım layihələri aşağıdakı kartlarda sadaladım.",
+      "showProfile": "Qısa profil məlumatlarımı aşağıdakı kartda görə bilərsən.",
+      "showExperience": "İş və karyera təcrübəmi aşağıdakı kartda xülasə etdim.",
+      "showContact": "Əlaqə məlumatlarımı aşağıdakı kartda paylaşdım.",
+      "downloadCv": "CV faylına aşağıdakı kartdan keçid edə bilərsən.",
+      "showEducation": "Təhsil məlumatlarımı aşağıdakı kartda görə bilərsən.",
+      "showCertificates": "Sertifikatlarımı aşağıdakı kartda sadaladım.",
+      "default": "Cavab alınmadı."
+    }
+  },
+  "intentCard": {
+    "profile": "Profil",
+    "skillsTitle": "Bacarıqlar və Ekspertiza",
+    "skillsDescription": "Texniki sahələr üzrə qruplaşdırılıb.",
+    "projectsTitle": "Layihələr",
+    "projectsDescription": "Seçilmiş işlər və məhsul nümunələri.",
+    "portfolioProject": "Portfolio layihəsi",
+    "experienceTitle": "Təcrübə",
+    "experienceDescription": "Karyera xətti və son rollar.",
+    "contactTitle": "Əlaqə",
+    "contactDescription": "Peşəkar söhbətlər üçün ən yaxşı kanallar.",
+    "cvDownloadTitle": "CV yükləmə",
+    "developerProfile": "Developer profili",
+    "openCvPdf": "CV PDF-ni aç",
+    "cvNotConfigured": "CV linki hələ konfiqurasiya edilməyib.",
+    "educationTitle": "Təhsil",
+    "educationDescription": "Akademik məlumatlar.",
+    "certificatesTitle": "Sertifikatlar",
+    "certificatesDescription": "Peşəkar sertifikatlar və credential-lar.",
+    "cardUnavailable": "Bu cavab üçün kart məlumatı mövcud deyil.",
+    "other": "Digər",
+    "openCredential": "Credential-i aç",
+    "coreFocus": "Əsas fokus",
+    "remoteReady": "Remote işləməyə hazır",
+    "meFocusBackend": "Backend sistemlər",
+    "meFocusFrontend": "Frontend inkişafı",
+    "meFocusCloud": "Cloud və DevOps",
+    "meFocusAi": "AI yönümlü məhsullar",
+    "openProject": "Layihəni aç",
+    "openSource": "Mənbə kodunu aç"
+  },
+  "employment": {
+    "fullTime": "Tam ştat",
+    "partTime": "Yarım ştat",
+    "contract": "Müqavilə",
+    "freelance": "Freelance",
+    "internship": "Təcrübəçi"
+  },
+  "contactForm": {
+    "title": "Mənimlə Əlaqə Saxlayın",
+    "subjectLabel": "Mövzu",
+    "emailLabel": "E-poçt",
+    "emailPlaceholder": "example@domain.com",
+    "messageLabel": "Mesajınız",
+    "messagePlaceholder": "Müraciətinizin qısa mətni...",
+    "sendButton": "Göndər",
+    "submittingButton": "Göndərilir...",
+    "successMessage": "Müraciətiniz uğurla göndərildi! Tezliklə sizinlə əlaqə saxlanılacaq.",
+    "pendingErrorMessage": "Zaten hazırda baxılmamış bir müraciətiniz var. Tezliklə sizinlə əlaqə saxlanılacaq.",
+    "genericErrorMessage": "Müraciət göndərilərkən xəta baş verdi. Xahiş edirik yenidən cəhd edin.",
+    "subjects": {
+      "jobOpportunity": "İş Təklifi",
+      "freelanceProject": "Frilans Layihə",
+      "technicalConsulting": "Texniki Məsləhət",
+      "generalInquiry": "Ümumi Müraciət",
+      "other": "Digər"
+    },
+    "validation": {
+      "emailRequired": "E-poçt ünvanı vacibdir.",
+      "emailInvalid": "Zəhmət olmasa keçərli e-poçt ünvanı yazın (məs. name@domain.com).",
+      "messageRequired": "Mesaj mətni boş ola bilməz.",
+      "messageMinLength": "Mesaj ən azı 5 simvoldan ibarət olmalıdır."
+    }
+  }
+}

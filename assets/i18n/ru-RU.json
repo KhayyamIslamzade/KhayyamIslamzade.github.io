@@ -1,0 +1,152 @@
+{
+  "language": {
+    "selectorLabel": "Язык",
+    "options": {
+      "en-US": "Английский",
+      "az-AZ": "Азербайджанский",
+      "ru-RU": "Русский"
+    }
+  },
+  "app": {
+    "welcomeEyebrow": "Привет, я Хайям",
+    "welcomeTitle": "Инженер-программист",
+    "poweredBy": "Работает на",
+    "brand": "Generative Portfolio AI"
+  },
+  "common": {
+    "back": "Назад",
+    "ai": "AI",
+    "aiIsWriting": "AI пишет",
+    "present": "По настоящее время",
+    "years": "лет",
+    "validation": "Проверка",
+    "invalidInput": "Некорректные данные",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "info": "Информация",
+    "anErrorOccurred": "Произошла ошибка",
+    "duration": {
+      "short": {
+        "hours": "ч",
+        "minutes": "м",
+        "seconds": "с"
+      }
+    }
+  },
+  "chat": {
+    "placeholder": "Спросите меня о чем угодно...",
+    "sendMessage": "Отправить сообщение",
+    "backToIntro": "Вернуться к вступлению",
+    "quickActionsLabel": "Быстрые вопросы о портфолио",
+    "welcome": {
+      "initialPrompt": "Привет",
+      "staticMessage": "Привет! Вы можете спросить меня о моем опыте, проектах или технических навыках.",
+      "fallback": "Привет! Вы можете спросить меня о моем опыте, проектах или технических навыках."
+    },
+    "quickActions": {
+      "profile": "Обо мне",
+      "projects": "Проекты",
+      "skills": "Навыки",
+      "experience": "Опыт",
+      "contact": "Контакты",
+      "downloadCv": "Скачать CV",
+      "certificates": "Сертификаты",
+      "education": "Образование"
+    },
+    "quickPrompts": {
+      "profile": "Можешь рассказать о Хайям?",
+      "projects": "Можешь перечислить проекты, которые ты разработал?",
+      "skills": "Какие у тебя технические навыки и компетенции?",
+      "experience": "Можешь описать свой рабочий и карьерный опыт?",
+      "contact": "Как я могу с тобой связаться?",
+      "downloadCv": "Могу я скачать твое CV?",
+      "certificates": "Можешь перечислить свои сертификаты?",
+      "education": "Можешь показать информацию об образовании?"
+    },
+    "errors": {
+      "requestFailed": "Извините, при получении ответа произошла ошибка соединения. Попробуйте еще раз.",
+      "cardDataFailed": "Не удалось загрузить данные карточки. Попробуйте еще раз."
+    },
+    "rateLimit": {
+      "title": "Мини-пауза для чата",
+      "message": "AI подзаряжает мысли. Попробуйте снова, когда таймер обнулится.",
+      "remainingLabel": "Осталось до повторной попытки",
+      "inputNote": "Прямые сообщения на паузе, но быстрые кнопки портфолио все еще работают."
+    },
+    "intentResponses": {
+      "showSkills": "Мои технические навыки сгруппированы по категориям в карточке ниже.",
+      "showProjects": "Я перечислил разработанные проекты в карточках ниже.",
+      "showProfile": "Краткую информацию о профиле можно увидеть в карточке ниже.",
+      "showExperience": "Я кратко описал свой рабочий и карьерный опыт в карточке ниже.",
+      "showContact": "Я поделился контактной информацией в карточке ниже.",
+      "downloadCv": "CV доступно из карточки ниже.",
+      "showEducation": "Информацию об образовании можно увидеть в карточке ниже.",
+      "showCertificates": "Я перечислил сертификаты в карточке ниже.",
+      "default": "Ответ не получен."
+    }
+  },
+  "intentCard": {
+    "profile": "Профиль",
+    "skillsTitle": "Навыки и экспертиза",
+    "skillsDescription": "Сгруппировано по техническим направлениям.",
+    "projectsTitle": "Проекты",
+    "projectsDescription": "Избранные работы и примеры продуктов.",
+    "portfolioProject": "Проект портфолио",
+    "experienceTitle": "Опыт",
+    "experienceDescription": "Карьерная хронология и последние роли.",
+    "contactTitle": "Контакты",
+    "contactDescription": "Лучшие каналы для профессионального общения.",
+    "cvDownloadTitle": "Скачать CV",
+    "developerProfile": "Профиль разработчика",
+    "openCvPdf": "Открыть CV PDF",
+    "cvNotConfigured": "Ссылка на CV пока не настроена.",
+    "educationTitle": "Образование",
+    "educationDescription": "Академическая информация.",
+    "certificatesTitle": "Сертификаты",
+    "certificatesDescription": "Профессиональные сертификаты и учетные данные.",
+    "cardUnavailable": "Данные карточки недоступны для этого ответа.",
+    "other": "Другое",
+    "openCredential": "Открыть сертификат",
+    "coreFocus": "Основной фокус",
+    "remoteReady": "Готов к удаленной работе",
+    "meFocusBackend": "Backend-системы",
+    "meFocusFrontend": "Frontend-разработка",
+    "meFocusCloud": "Cloud и DevOps",
+    "meFocusAi": "AI-ориентированные продукты",
+    "openProject": "Открыть проект",
+    "openSource": "Открыть исходный код"
+  },
+  "employment": {
+    "fullTime": "Полная занятость",
+    "partTime": "Частичная занятость",
+    "contract": "Контракт",
+    "freelance": "Freelance",
+    "internship": "Стажировка"
+  },
+  "contactForm": {
+    "title": "Связаться со мной",
+    "subjectLabel": "Тема",
+    "emailLabel": "Эл. почта",
+    "emailPlaceholder": "example@domain.com",
+    "messageLabel": "Ваше сообщение",
+    "messagePlaceholder": "Краткое описание вашего обращения...",
+    "sendButton": "Отправить",
+    "submittingButton": "Отправка...",
+    "successMessage": "Ваше обращение успешно отправлено! Мы свяжемся с вами в ближайшее время.",
+    "pendingErrorMessage": "У вас уже есть необработанное обращение. Мы скоро свяжемся с вами.",
+    "genericErrorMessage": "Произошла ошибка при отправке сообщения. Пожалуйста, попробуйте еще раз.",
+    "subjects": {
+      "jobOpportunity": "Предложение работы",
+      "freelanceProject": "Фриланс проект",
+      "technicalConsulting": "Техническая консультация",
+      "generalInquiry": "Общий вопрос",
+      "other": "Другое"
+    },
+    "validation": {
+      "emailRequired": "Адрес эл. почты обязателен.",
+      "emailInvalid": "Пожалуйста, введите корректный адрес эл. почты (напр. name@domain.com).",
+      "messageRequired": "Текст сообщения не может быть пустым.",
+      "messageMinLength": "Сообщение должно содержать не менее 5 символов."
+    }
+  }
+}
