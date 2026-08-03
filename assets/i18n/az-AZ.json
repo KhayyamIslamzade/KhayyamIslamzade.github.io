@@ -11,7 +11,8 @@
     "welcomeEyebrow": "Salam, mən Xəyyam",
     "welcomeTitle": "Proqram Muhəndisi",
     "poweredBy": "Bu sayt yaradılarkən heç bir bug-a xətər yetirilməyib —",
-    "brand": "Khayyam Islamzade 🤖"
+    "brand": "Khayyam Islamzade 🤖",
+    "profileBadge": "Senior .NET Developer . 8+ il . Baku"
   },
   "common": {
     "back": "Geri",
@@ -34,14 +35,14 @@
     }
   },
   "chat": {
-    "placeholder": "Məndən istədiyini soruş...",
+    "placeholder": "Arxitektura təcrübəm, tech stack və ya availability haqqında soruş...",
     "sendMessage": "Mesaj göndər",
     "backToIntro": "Giriş ekranına qayıt",
     "quickActionsLabel": "Sürətli portfolio sorğuları",
     "welcome": {
       "initialPrompt": "Salam",
-      "staticMessage": "Salam! Təcrübəm, layihələrim və ya texniki bacarıqlarım haqqında hər şeyi soruşa bilərsən.",
-      "fallback": "Salam! Təcrübəm, layihələrim və ya texniki bacarıqlarım haqqında hər şeyi soruşa bilərsən."
+      "staticMessage": "Təcrübəm, layihələrim, tech stack-im və production sistemlərini necə qurduğum haqqında səni yönləndirə bilərəm.",
+      "fallback": "Təcrübəm, layihələrim, tech stack-im və production sistemlərini necə qurduğum haqqında səni yönləndirə bilərəm."
     },
     "quickActions": {
       "profile": "Mən",
@@ -83,6 +84,13 @@
       "showEducation": "Təhsil məlumatlarımı aşağıdakı kartda görə bilərsən.",
       "showCertificates": "Sertifikatlarımı aşağıdakı kartda sadaladım.",
       "default": "Cavab alınmadı."
+    },
+    "send": "Göndər",
+    "suggestedPromptsLabel": "Hazır suallar",
+    "suggestedPrompts": {
+      "systemDesign": "Ən güclü system design işin hansıdır?",
+      "azureExperience": "Azure təcrübəni göstər.",
+      "seniorRoles": "Senior rollarda nə məsuliyyət almısan?"
     }
   },
   "intentCard": {
@@ -148,5 +156,14 @@
       "messageRequired": "Mesaj mətni boş ola bilməz.",
       "messageMinLength": "Mesaj ən azı 5 simvoldan ibarət olmalıdır."
     }
+  },
+  "theme": {
+    "toggle": "Tema dəyiş"
+  },
+  "availability": {
+    "Unknown": "Status məlum deyil",
+    "ActiveSearch": "Aktiv iş axtarışında",
+    "PassiveSearch": "Maraqlı rollara açıq",
+    "NotAvailable": "Hazırda uyğun deyil"
   }
 }

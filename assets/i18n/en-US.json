@@ -11,7 +11,8 @@
     "welcomeEyebrow": "Hey, I'm Khayyam",
     "welcomeTitle": "Software Engineer",
     "poweredBy": "No bugs were harmed in the making of this site —",
-    "brand": "Khayyam Islamzade 🤖"
+    "brand": "Khayyam Islamzade 🤖",
+    "profileBadge": "Senior .NET Developer . 8+ yrs . Baku"
   },
   "common": {
     "back": "Back",
@@ -34,14 +35,14 @@
     }
   },
   "chat": {
-    "placeholder": "Ask me anything...",
+    "placeholder": "Ask about my architecture experience, tech stack, or availability...",
     "sendMessage": "Send message",
     "backToIntro": "Back to intro",
     "quickActionsLabel": "Quick portfolio prompts",
     "welcome": {
       "initialPrompt": "Hello",
-      "staticMessage": "Hello! You can ask me anything about my experience, projects, or technical skills.",
-      "fallback": "Hello! You can ask me anything about my experience, projects, or technical skills."
+      "staticMessage": "I can walk you through my experience, projects, tech stack, and how I approach building production systems.",
+      "fallback": "I can walk you through my experience, projects, tech stack, and how I approach building production systems."
     },
     "quickActions": {
       "profile": "Me",
@@ -83,7 +84,14 @@
       "showEducation": "You can see my education information in the card below.",
       "showCertificates": "I listed my certificates in the card below.",
       "default": "No response was received."
-    }
+    },
+    "suggestedPromptsLabel": "Suggested questions",
+    "suggestedPrompts": {
+      "systemDesign": "What's your strongest system design work?",
+      "azureExperience": "Show me your Azure experience.",
+      "seniorRoles": "Are you open to senior roles?"
+    },
+    "send": "Send"
   },
   "intentCard": {
     "profile": "Profile",
@@ -148,5 +156,14 @@
       "messageRequired": "Message content cannot be empty.",
       "messageMinLength": "Message must be at least 5 characters long."
     }
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "availability": {
+    "Unknown": "Availability unknown",
+    "ActiveSearch": "Actively looking",
+    "PassiveSearch": "Open to interesting roles",
+    "NotAvailable": "Not available"
   }
 }
