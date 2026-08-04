@@ -9,7 +9,7 @@
   },
   "app": {
     "welcomeEyebrow": "Salam, mən Xəyyam",
-    "welcomeTitle": "Proqram Muhəndisi",
+    "welcomeTitle": "Proqram Təminatı Mühəndisi",
     "poweredBy": "Bu sayt yaradılarkən heç bir bug-a xətər yetirilməyib —",
     "brand": "Khayyam Islamzade 🤖",
     "profileBadge": "Senior .NET Developer . 8+ il . Baku"
@@ -35,7 +35,7 @@
     }
   },
   "chat": {
-    "placeholder": "Arxitektura təcrübəm, tech stack və ya availability haqqında soruş...",
+    "placeholder": "Mənə texniki bacarıqlarım, layihələrim və ya təcrübəm haqqında sual ver...",
     "sendMessage": "Mesaj göndər",
     "backToIntro": "Giriş ekranına qayıt",
     "quickActionsLabel": "Sürətli portfolio sorğuları",

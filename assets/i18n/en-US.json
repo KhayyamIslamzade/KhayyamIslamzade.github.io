@@ -35,7 +35,7 @@
     }
   },
   "chat": {
-    "placeholder": "Ask about my architecture experience, tech stack, or availability...",
+    "placeholder": "Ask me anything about my tech stack, projects, or background...",
     "sendMessage": "Send message",
     "backToIntro": "Back to intro",
     "quickActionsLabel": "Quick portfolio prompts",
