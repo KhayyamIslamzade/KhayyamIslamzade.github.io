@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khayyamislamzade.github.io/sitemap.xml
